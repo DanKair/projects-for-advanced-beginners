@@ -5,3 +5,7 @@ venv/
 # Environmental Variable
 .env
 **/.env
+
+# IDE settings
+.idea/
+.vscode/
