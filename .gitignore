@@ -9,3 +9,7 @@ venv/
 # IDE settings
 .idea/
 .vscode/
+
+# DB
+*.db
+**/.db
